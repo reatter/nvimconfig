@@ -88,7 +88,7 @@ require('lazy').setup({
   opts = {
     options = {
       icons_enabled = false,
-      theme = 'retrobox',
+      theme = 'auto',
       component_separators = '☻',
       section_separators = '♡',
     },
